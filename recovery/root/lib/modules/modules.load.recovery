@@ -206,6 +206,7 @@ tran_rhi.ko
 tkv.ko
 tkv_recovery.ko
 tnek.ko
+thd.ko
 fair.ko
 sdcard_debug.ko
 tran_perf_util.ko
