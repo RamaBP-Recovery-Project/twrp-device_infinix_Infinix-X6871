@@ -182,4 +182,3 @@ tran_expand_key.ko
 tran_rhi.ko
 tkv.ko
 tkv_recovery.ko
-sdcard_debug.ko
