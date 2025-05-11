@@ -121,6 +121,7 @@ mt6375-auxadc.ko
 adapter_class.ko
 charger_class.ko
 mtk_charger_algorithm_class.ko
+tran_charge_transfer.ko
 mt6375-charger.ko
 pd_dbg_info.ko
 tcpc_class.ko
@@ -133,6 +134,9 @@ mtk_pd_charging.ko
 rfc_ta.ko
 prop_ta_class.ko
 pca_rfc_ta.ko
+pid_chg_algo.ko
+tran_temp_forecast.ko
+mtk_ambient_temp_det.ko
 usb_switch_evo.ko
 leds-aw22xxx.ko
 hl7138.ko
@@ -154,6 +158,7 @@ leds-mtk-pwm.ko
 extcon-mtk-usb.ko
 tcpci_late_sync.ko
 pmic_lbat_service.ko
+pmic_lvsys_notify.ko
 reset-ti-syscon.ko
 mt6368-accdet.ko
 adsp.ko

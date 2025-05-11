@@ -183,6 +183,8 @@ alias of:N*T*Cmediatek,mt6761-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6761-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6739-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6739-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6885-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6885-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Ctranssion,_usb_control tran_usb_ctrl
 alias of:N*T*Ctranssion,_usb_controlC* tran_usb_ctrl
 alias of:N*T*Cmediatek,mt6685-rtc rtc_mt6685
@@ -242,6 +244,8 @@ alias of:N*T*Cmediatek,extcon-usb extcon_mtk_usb
 alias of:N*T*Cmediatek,extcon-usbC* extcon_mtk_usb
 alias of:N*T*Cmediatek,common-emislb emi_slb
 alias of:N*T*Cmediatek,common-emislbC* emi_slb
+alias of:N*T*Cmediatek,mt6363-lvsys-notify pmic_lvsys_notify
+alias of:N*T*Cmediatek,mt6363-lvsys-notifyC* pmic_lvsys_notify
 alias of:N*T*Crichtek,rfc_ta rfc_ta
 alias of:N*T*Crichtek,rfc_taC* rfc_ta
 alias i2c:rfc_ta rfc_ta
@@ -284,6 +288,8 @@ alias of:N*T*Cmediatek,mt6589-wdt mtk_wdt
 alias of:N*T*Cmediatek,mt6589-wdtC* mtk_wdt
 alias of:N*T*Cmediatek,mt8183-wdt mtk_wdt
 alias of:N*T*Cmediatek,mt8183-wdtC* mtk_wdt
+alias of:N*T*Ctranssion,temp_forecast tran_temp_forecast
+alias of:N*T*Ctranssion,temp_forecastC* tran_temp_forecast
 alias of:N*T*Cmediatek,mt6363-auxadc mtk_spmi_pmic_adc
 alias of:N*T*Cmediatek,mt6363-auxadcC* mtk_spmi_pmic_adc
 alias of:N*T*Cmediatek,mt6368-auxadc mtk_spmi_pmic_adc
@@ -304,6 +310,10 @@ alias of:N*T*Cmediatek,mt6375-lbat-service pmic_lbat_service
 alias of:N*T*Cmediatek,mt6375-lbat-serviceC* pmic_lbat_service
 alias of:N*T*Cmediatek,mt6685 mt6685_core
 alias of:N*T*Cmediatek,mt6685C* mt6685_core
+alias of:N*T*Ctran,pid_chg_algo pid_chg_algo
+alias of:N*T*Ctran,pid_chg_algoC* pid_chg_algo
+alias of:N*T*Ctranssion,_charge_transfer tran_charge_transfer
+alias of:N*T*Ctranssion,_charge_transferC* tran_charge_transfer
 alias of:N*T*Cmediatek,mtk-drm-gateic-drv-rt4801h mediatek_drm_gateic
 alias of:N*T*Cmediatek,mtk-drm-gateic-drv-rt4801hC* mediatek_drm_gateic
 alias of:N*T*Cmediatek,mtk-drm-gateic-drv-rt4831a mediatek_drm_gateic
@@ -750,6 +760,8 @@ alias of:N*T*Cmediatek,mt6375-tcpc tcpc_mt6375
 alias of:N*T*Cmediatek,mt6375-tcpcC* tcpc_mt6375
 alias of:N*T*Cmediatek,clk-disable-unused clk_disable_unused
 alias of:N*T*Cmediatek,clk-disable-unusedC* clk_disable_unused
+alias of:N*T*Ctranssion,ambient_detect mtk_ambient_temp_det
+alias of:N*T*Ctranssion,ambient_detectC* mtk_ambient_temp_det
 alias of:N*T*Cmediatek,devinfo nvmem_mtk_devinfo
 alias of:N*T*Cmediatek,devinfoC* nvmem_mtk_devinfo
 alias of:N*T*Cmediatek,pwm-leds leds_mtk_pwm

@@ -94,6 +94,7 @@ rpmb.ko
 rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
+mtk-dvfsrc-helper.ko
 clk-chk-mt6895.ko
 clk-dbg-mt6895.ko
 blocktag.ko
@@ -124,6 +125,7 @@ mt6375-auxadc.ko
 adapter_class.ko
 charger_class.ko
 mtk_charger_algorithm_class.ko
+tran_charge_transfer.ko
 mt6375-charger.ko
 pd_dbg_info.ko
 tcpc_class.ko
@@ -136,6 +138,9 @@ mtk_pd_charging.ko
 rfc_ta.ko
 prop_ta_class.ko
 pca_rfc_ta.ko
+pid_chg_algo.ko
+tran_temp_forecast.ko
+mtk_ambient_temp_det.ko
 usb_switch_evo.ko
 leds-aw22xxx.ko
 hl7138.ko
@@ -159,6 +164,7 @@ tcpci_late_sync.ko
 mtk_battery_oc_throttling.ko
 mtk_low_battery_throttling.ko
 pmic_lbat_service.ko
+pmic_lvsys_notify.ko
 mtk_dynamic_loading_throttling.ko
 mtk_bp_thl.ko
 mtk_pbm.ko
