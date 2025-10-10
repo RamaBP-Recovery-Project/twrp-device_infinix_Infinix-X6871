@@ -216,7 +216,7 @@
 /lib/modules/mediatek-cpufreq-hw.ko:
 /lib/modules/tran_fp.ko: /lib/modules/spi-mt65xx.ko /lib/modules/mcDrvModule.ko /lib/modules/tnek.ko /lib/modules/transsion_tranlog.ko /lib/modules/mtk_disp_notify.ko
 /lib/modules/load_track.ko:
-/lib/modules/zram.ko: /lib/modules/zsmalloc.ko /lib/modules/tran_rhi.ko /lib/modules/transsion_tranlog.ko
+/lib/modules/zram.ko: /lib/modules/tran_rhi.ko /lib/modules/zsmalloc.ko /lib/modules/transsion_tranlog.ko
 /lib/modules/cmdq_helper_inf.ko: /lib/modules/mtk-cmdq-drv-ext.ko /lib/modules/device-apc-common.ko /lib/modules/mtk-smi-dbg.ko /lib/modules/mtk-smi.ko /lib/modules/emi.ko /lib/modules/emi-mpu.ko /lib/modules/vcp_status.ko /lib/modules/iommu_debug.ko /lib/modules/mmprofile.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko /lib/modules/log_store.ko /lib/modules/irq-dbg.ko
 /lib/modules/mt6363-regulator.ko:
 /lib/modules/mtk_mm_heap.ko:
